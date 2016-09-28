@@ -1,0 +1,19 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+
+#
+#
+
+.zion
+.dropbox
+.buildpath
+.project
+.settings/
+.enviroment
+/js/appdev.js
+/js/appenv.js
+/js/installer/*
